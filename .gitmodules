@@ -1,0 +1,6 @@
+[submodule "PRP"]
+	path = PRP
+	url = https://github.com/AlanAyy/PRP
+[submodule "video-pace"]
+	path = video-pace
+	url = https://github.com/AlanAyy/video-pace
